@@ -1,0 +1,3 @@
+#!/home/orko/Dev/PycharmProjects/harmony/venv/bin/python
+from numba.pycc import main
+main()
